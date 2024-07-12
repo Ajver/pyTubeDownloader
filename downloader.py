@@ -8,7 +8,7 @@ if len(sys.argv) > 1:
     link = sys.argv[1]
 else:
     print("Auto setting link...")
-    link = "https://youtu.be/i4HrUNtD9Ms"
+    link = "https://youtu.be/dCNTQmbqFSs?si=bATSRVvXJQwCZHW2"
 
 
 def on_download_progress(stream: Stream, _chunk: bytes, bytes_remaining: int):
